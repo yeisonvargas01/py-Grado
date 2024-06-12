@@ -9,11 +9,11 @@
   <br />
   <br />
 
-  <h2 align="center">Barber - Barber Website</h2>
+  <h2 align="center">Code - Learn Website</h2>
 
-  Barber is a fully responsive barber website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+  Code & learn is a fully responsive code website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/barber/"><strong>➥ Live Demo</strong></a>
+  <a href="https://github.com/yeisonvargas01/py-Grado.git"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -21,7 +21,7 @@
 
 ### Demo Screeshots
 
-![Barber Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![Code Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
 ### Prerequisites
 
@@ -31,18 +31,18 @@ Before you begin, ensure you have met the following requirements:
 
 ### Run Locally
 
-To run **Barber** locally, run this command on your git bash:
+To run **Code** locally, run this command on your git bash:
 
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/barber.git
+sudo git clone https://github.com/yeisonvargas01/py-Grado.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/barber.git
+git clone https://github.com/yeisonvargas01/py-Grado.git
 ```
 
 ### Contact
