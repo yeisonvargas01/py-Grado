@@ -27,7 +27,7 @@ Ionicon
 
 ---
 
-## Colors
+## Colores
 
 ``` css
 --rich-black-fogra-39_50: hsla(0, 0%, 5%, 0.5);
@@ -51,7 +51,7 @@ Ionicon
 --jet: hsl(0, 0%, 21%);
 ```
 
-## Typography
+## Tipografía
 
 ``` css
 --ff-oswald : 'Oswald', sans-serif;
@@ -70,13 +70,13 @@ Ionicon
 --fw-700: 700;
 ```
 
-## Spacing
+## Espaciado
 
 ``` css
 --section-padding: 80px;
 ```
 
-## Shadow
+## Sombra
 
 ``` css
 --shadow-1: 10px 0 60px hsla(0, 0%, 15%, 0.07);

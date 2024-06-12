@@ -88,3 +88,26 @@ const filter = function () {
 }
 
 addEventOnElem(filterBtns, "click", filter);
+
+
+const registrationForm = document.getElementById("registrationForm");
+const registrationMessage = document.getElementById("registrationMessage");
+const backToHomePageBtn = document.getElementById("backToHomePage");
+
+// Manejar el envío del formulario
+registrationForm.addEventListener("submit", function(event) {
+  // Evitar el envío del formulario por defecto
+  event.preventDefault();
+
+  // Mostrar el mensaje de "Usuario registrado"
+  registrationMessage.style.display = "block";
+
+  // Opcional: Ocultar el formulario después de mostrar el mensaje
+  registrationForm.style.display = "none";
+});
+
+// Manejar el evento del botón para regresar a la página principal
+backToHomePageBtn.addEventListener("click", function() {
+  // Redirigir al usuario a la página principal
+  window.location.href = "http://127.0.0.1:5500/"; // Cambiar "pagina_principal.html" por la URL de tu página principal
+});
